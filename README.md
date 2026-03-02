@@ -116,7 +116,7 @@ const cloudweaver = {
 | Badge | Certification | Verify |
 |:-----:|:-------------|:------:|
 | <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80"/> | **AWS Certified Solutions Architect** | [🔗 Verify](https://credly.com) |
-| <img src="https://images.credly.com/size/110x110/images/987adb7e-49be-4f24-b67e-55986bd3fe66/image.png" width="80"/> | **Kubernetes Administrator (CKA)** | [🔗 Verify](https://credly.com) |
+| <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80"/> | **Kubernetes Administrator (CKA)** | [🔗 Verify](https://credly.com) |
 | <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80"/> | **Azure Solutions Architect Expert** | [🔗 Verify](https://credly.com) |
 | <img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="80"/> | **Google Professional Cloud Architect** | [🔗 Verify](https://credly.com) |
 
